@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.70.0](https://github.com/instill-ai/console/compare/@instill-ai/toolkit-v0.69.1...@instill-ai/toolkit-v0.70.0) (2023-10-23)
+
+
+### Features
+
+* add instill form playground ([#617](https://github.com/instill-ai/console/issues/617)) ([b9e4513](https://github.com/instill-ai/console/commit/b9e4513e36a80df9b319454b815584162daee988))
+
+
+### Miscellaneous
+
+* **auto-form:** migrate auto-form function into console ([#615](https://github.com/instill-ai/console/issues/615)) ([64bd122](https://github.com/instill-ai/console/commit/64bd12213676ecbcf07b37f6dc574417f3e7bce8))
+* **toolkit:** Namananand/ins 2260 update profile setting page ([#613](https://github.com/instill-ai/console/issues/613)) ([6fa962b](https://github.com/instill-ai/console/commit/6fa962b534ec80fe1eb77411c7eb4612e991b66c))
+
 ## [0.69.1](https://github.com/instill-ai/console/compare/@instill-ai/toolkit-v0.69.0...@instill-ai/toolkit-v0.69.1) (2023-10-20)
 
 
